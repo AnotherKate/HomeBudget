@@ -8,7 +8,6 @@ public class HomeBudgetApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HomeBudgetApplication.class, args);
-		System.out.println("Hello");
 	}
 
 }
